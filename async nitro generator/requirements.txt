@@ -1,5 +1,0 @@
-numpy
-colorama
-httpx
-discord_webhook
-cursor
