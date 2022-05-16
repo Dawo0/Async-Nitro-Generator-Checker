@@ -1,4 +1,3 @@
-### ⚠️ THIS PROJECT IS COMING SOON.
 
 # ♾️ Async Nitro.py
 
